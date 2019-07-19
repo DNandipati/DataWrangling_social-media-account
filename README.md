@@ -18,6 +18,9 @@ The purpose of this project is to utilize data wrangling and cleaning skills to 
 - Pandas
 - Matplotlib
 - Seaborn
+- Tweepy
+- JSON
+- Sqlalchemy
 - Jupyter Notebook
 
 ## Key findings from analysis
